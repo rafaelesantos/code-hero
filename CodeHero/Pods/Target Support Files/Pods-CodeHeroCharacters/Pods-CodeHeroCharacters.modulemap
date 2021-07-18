@@ -1,0 +1,6 @@
+framework module Pods_CodeHeroCharacters {
+  umbrella header "Pods-CodeHeroCharacters-umbrella.h"
+
+  export *
+  module * { export * }
+}
