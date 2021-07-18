@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:CodeHeroPagination/CodeHeroPagination.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CodeHeroModels/CodeHeroModels.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CodeHeroCharacters/CodeHeroCharacters.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CodeHeroAPI/CodeHeroAPI.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CodeHero.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

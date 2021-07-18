@@ -1,0 +1,27 @@
+platform :ios, '14.1'
+use_frameworks!
+workspace 'CodeHero'
+
+def shared_pods
+  pod 'RxSwift'
+  pod 'RxCocoa'
+  pod 'SwiftLint'
+end
+
+target 'CodeHero' do
+  use_frameworks!
+  shared_pods
+
+  target 'CodeHeroTests' do
+    inherit! :search_paths
+  end
+
+  target 'CodeHeroUITests' do
+  end
+end
+
+target 'CodeHeroCharacters' do
+  shared_pods
+  project "CodeHeroCharacters/CodeHeroCharacters"
+end
+

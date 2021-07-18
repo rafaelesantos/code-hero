@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<!--
+   Global.plist
+   CodeHero
+
+Created by Rafael Escaleira on 15/07/21.
+Copyright (c) 2021 ___ORGANIZATIONNAME___. All rights reserved.
+-->
+<plist version="1.0">
+    <dict>
+        <key>Base URL</key>
+        <string>https://gateway.marvel.com/v1/public/</string>
+        <key>API Public Key</key>
+        <string>46555a3f2de04779fb8c4707473f176b</string>
+        <key>API Private Key</key>
+        <string>3ff4d29eccc8d99741a3977981c2bd2ecbd165bc</string>
+    </dict>
+</plist>
