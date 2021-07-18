@@ -18,17 +18,4 @@ Plus:
 <img src="Assets/Group 4.png" width="25%"/>
 </p>
 
-Sugerimos o desenvolvimento em Android Nativo(Kotlin/java), mas caso não se sinta confortável, escolha uma das seguintes tecnologias de sua preferência:
-
-- IOS (Swift)
-- Xamarin
-- React Native
-- Ionic
-
-Para o desenvolvimento do App, você deve utilizar as APIs que a Marvel disponibiliza em https://developer.marvel.com/
-
-Cronograma do projeto:
-
-- Esperamos receber o projeto em até 3 dias
-- Caso você precise de mais tempo, por favor nos avise.
-- Projetos enviados fora do prazo de 3 dias e que não tenham sinalizado a necessidade de expansão do prazo serão desconsiderados.
+Para o desenvolvimento do App, você deve utilizar as APIs que a Marvel disponibiliza em https://developer.marvel.com/ .
