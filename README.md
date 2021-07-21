@@ -18,4 +18,4 @@ Plus:
 <img src="Assets/Group 4.png" width="25%"/>
 </p>
 
-Para o desenvolvimento do App, você deve utilizar as APIs que a Marvel disponibiliza em https://developer.marvel.com/ .
+Para o desenvolvimento do App, foi utilizado as APIs que a Marvel disponibiliza em https://developer.marvel.com/ .
